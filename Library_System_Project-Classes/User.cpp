@@ -1,6 +1,7 @@
 #include "User.h"
 #include "Loan.h"
 
+
 ///////////////////////////        USER FUNCTIONS
 /// setters
 void User::setName(str s) {name=s;}

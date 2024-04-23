@@ -21,6 +21,7 @@ Student student;
 Staff staff;
 Faculty faculty;
 
+
 void printHeader();
 void printMemberMenu();
 void printSearchOptions();
